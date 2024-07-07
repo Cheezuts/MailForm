@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-<?php include 'Navbar.php'; ?>
+<?php include 'navbar.php'; ?>
 
 
 
